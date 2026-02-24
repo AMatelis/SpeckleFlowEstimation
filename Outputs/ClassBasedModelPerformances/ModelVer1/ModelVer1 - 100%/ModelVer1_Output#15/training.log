@@ -1,0 +1,115 @@
+[2025-09-01 20:09:36,981][INFO] Preparing dataloaders...
+[2025-09-01 20:10:05,797][INFO] Train batches: 357, Val batches: 90
+[2025-09-01 20:10:06,576][INFO] Model created and moved to cuda
+[2025-09-01 20:10:42,391][INFO] Scaler saved to C:\Users\john_\Downloads\MyProjects\outputs\scaler.pkl
+[2025-09-01 20:10:42,391][INFO] Starting training loop...
+[2025-09-01 20:11:00,893][INFO] Train Loss: 0.326762
+[2025-09-01 20:11:02,111][INFO] Epoch 001 | Train Loss: 0.326762 | Val Loss: 0.053981 | Time: 19.7s
+[2025-09-01 20:11:02,133][INFO] Saved best model to C:\Users\john_\Downloads\MyProjects\outputs\checkpoints\best_model.pth
+[2025-09-01 20:11:21,035][INFO] Train Loss: 0.092008
+[2025-09-01 20:11:22,230][INFO] Epoch 002 | Train Loss: 0.092008 | Val Loss: 0.663469 | Time: 20.1s
+[2025-09-01 20:11:36,464][INFO] Train Loss: 0.047634
+[2025-09-01 20:11:37,632][INFO] Epoch 003 | Train Loss: 0.047634 | Val Loss: 0.038785 | Time: 15.4s
+[2025-09-01 20:11:37,649][INFO] Saved best model to C:\Users\john_\Downloads\MyProjects\outputs\checkpoints\best_model.pth
+[2025-09-01 20:11:56,699][INFO] Train Loss: 0.040305
+[2025-09-01 20:11:57,887][INFO] Epoch 004 | Train Loss: 0.040305 | Val Loss: 0.415785 | Time: 20.2s
+[2025-09-01 20:12:15,316][INFO] Train Loss: 0.027531
+[2025-09-01 20:12:16,529][INFO] Epoch 005 | Train Loss: 0.027531 | Val Loss: 0.006023 | Time: 18.6s
+[2025-09-01 20:12:16,551][INFO] Saved best model to C:\Users\john_\Downloads\MyProjects\outputs\checkpoints\best_model.pth
+[2025-09-01 20:12:34,613][INFO] Train Loss: 0.036824
+[2025-09-01 20:12:36,967][INFO] Epoch 006 | Train Loss: 0.036824 | Val Loss: 0.157567 | Time: 20.4s
+[2025-09-01 20:12:54,295][INFO] Train Loss: 0.021534
+[2025-09-01 20:12:55,516][INFO] Epoch 007 | Train Loss: 0.021534 | Val Loss: 0.504700 | Time: 18.5s
+[2025-09-01 20:13:14,743][INFO] Train Loss: 0.022566
+[2025-09-01 20:13:15,955][INFO] Epoch 008 | Train Loss: 0.022566 | Val Loss: 0.013111 | Time: 20.4s
+[2025-09-01 20:13:37,914][INFO] Train Loss: 0.019772
+[2025-09-01 20:13:39,121][INFO] Epoch 009 | Train Loss: 0.019772 | Val Loss: 0.158430 | Time: 23.2s
+[2025-09-01 20:14:01,500][INFO] Train Loss: 0.025718
+[2025-09-01 20:14:03,205][INFO] Epoch 010 | Train Loss: 0.025718 | Val Loss: 0.011035 | Time: 24.1s
+[2025-09-01 20:14:23,574][INFO] Train Loss: 0.012196
+[2025-09-01 20:14:24,841][INFO] Epoch 011 | Train Loss: 0.012196 | Val Loss: 0.002048 | Time: 21.6s
+[2025-09-01 20:14:24,857][INFO] Saved best model to C:\Users\john_\Downloads\MyProjects\outputs\checkpoints\best_model.pth
+[2025-09-01 20:18:34,009][INFO] Train Loss: 0.011781
+[2025-09-01 20:18:34,989][INFO] Epoch 012 | Train Loss: 0.011781 | Val Loss: 0.002566 | Time: 250.1s
+[2025-09-01 20:18:45,840][INFO] Train Loss: 0.011518
+[2025-09-01 20:18:46,746][INFO] Epoch 013 | Train Loss: 0.011518 | Val Loss: 0.006241 | Time: 11.8s
+[2025-09-01 20:20:05,528][INFO] Train Loss: 0.010052
+[2025-09-01 20:20:06,624][INFO] Epoch 014 | Train Loss: 0.010052 | Val Loss: 0.016511 | Time: 79.5s
+[2025-09-01 20:20:17,359][INFO] Train Loss: 0.011132
+[2025-09-01 20:20:18,359][INFO] Epoch 015 | Train Loss: 0.011132 | Val Loss: 0.002284 | Time: 11.7s
+[2025-09-01 20:20:29,163][INFO] Train Loss: 0.010882
+[2025-09-01 20:20:30,168][INFO] Epoch 016 | Train Loss: 0.010882 | Val Loss: 0.003596 | Time: 11.8s
+[2025-09-01 20:20:41,365][INFO] Train Loss: 0.007662
+[2025-09-01 20:20:42,392][INFO] Epoch 017 | Train Loss: 0.007662 | Val Loss: 0.001453 | Time: 12.2s
+[2025-09-01 20:20:42,410][INFO] Saved best model to C:\Users\john_\Downloads\MyProjects\outputs\checkpoints\best_model.pth
+[2025-09-01 20:20:53,510][INFO] Train Loss: 0.006878
+[2025-09-01 20:20:54,584][INFO] Epoch 018 | Train Loss: 0.006878 | Val Loss: 0.001294 | Time: 12.2s
+[2025-09-01 20:20:54,603][INFO] Saved best model to C:\Users\john_\Downloads\MyProjects\outputs\checkpoints\best_model.pth
+[2025-09-01 20:21:05,903][INFO] Train Loss: 0.007564
+[2025-09-01 20:21:07,145][INFO] Epoch 019 | Train Loss: 0.007564 | Val Loss: 0.005784 | Time: 12.5s
+[2025-09-01 20:21:18,661][INFO] Train Loss: 0.007433
+[2025-09-01 20:21:19,839][INFO] Epoch 020 | Train Loss: 0.007433 | Val Loss: 0.003988 | Time: 12.7s
+[2025-09-01 20:21:31,228][INFO] Train Loss: 0.007326
+[2025-09-01 20:21:32,161][INFO] Epoch 021 | Train Loss: 0.007326 | Val Loss: 0.001991 | Time: 12.3s
+[2025-09-01 20:21:42,963][INFO] Train Loss: 0.008378
+[2025-09-01 20:21:44,012][INFO] Epoch 022 | Train Loss: 0.008378 | Val Loss: 0.008343 | Time: 11.8s
+[2025-09-01 20:21:55,013][INFO] Train Loss: 0.007257
+[2025-09-01 20:21:56,002][INFO] Epoch 023 | Train Loss: 0.007257 | Val Loss: 0.008171 | Time: 12.0s
+[2025-09-01 20:22:06,724][INFO] Train Loss: 0.006273
+[2025-09-01 20:22:07,651][INFO] Epoch 024 | Train Loss: 0.006273 | Val Loss: 0.002277 | Time: 11.6s
+[2025-09-01 20:22:18,356][INFO] Train Loss: 0.005655
+[2025-09-01 20:22:19,300][INFO] Epoch 025 | Train Loss: 0.005655 | Val Loss: 0.001854 | Time: 11.6s
+[2025-09-01 20:22:29,993][INFO] Train Loss: 0.004836
+[2025-09-01 20:22:30,927][INFO] Epoch 026 | Train Loss: 0.004836 | Val Loss: 0.002244 | Time: 11.6s
+[2025-09-01 20:22:41,620][INFO] Train Loss: 0.004772
+[2025-09-01 20:22:42,557][INFO] Epoch 027 | Train Loss: 0.004772 | Val Loss: 0.001696 | Time: 11.6s
+[2025-09-01 20:22:53,352][INFO] Train Loss: 0.005766
+[2025-09-01 20:22:54,349][INFO] Epoch 028 | Train Loss: 0.005766 | Val Loss: 0.001097 | Time: 11.8s
+[2025-09-01 20:22:54,355][INFO] Saved best model to C:\Users\john_\Downloads\MyProjects\outputs\checkpoints\best_model.pth
+[2025-09-01 20:23:05,239][INFO] Train Loss: 0.004598
+[2025-09-01 20:23:06,191][INFO] Epoch 029 | Train Loss: 0.004598 | Val Loss: 0.002687 | Time: 11.8s
+[2025-09-01 20:23:17,021][INFO] Train Loss: 0.004861
+[2025-09-01 20:23:17,972][INFO] Epoch 030 | Train Loss: 0.004861 | Val Loss: 0.002954 | Time: 11.8s
+[2025-09-01 20:23:28,865][INFO] Train Loss: 0.005183
+[2025-09-01 20:23:29,812][INFO] Epoch 031 | Train Loss: 0.005183 | Val Loss: 0.008255 | Time: 11.8s
+[2025-09-01 20:23:40,636][INFO] Train Loss: 0.005167
+[2025-09-01 20:23:41,586][INFO] Epoch 032 | Train Loss: 0.005167 | Val Loss: 0.000708 | Time: 11.8s
+[2025-09-01 20:23:41,612][INFO] Saved best model to C:\Users\john_\Downloads\MyProjects\outputs\checkpoints\best_model.pth
+[2025-09-01 20:23:52,424][INFO] Train Loss: 0.005580
+[2025-09-01 20:23:53,384][INFO] Epoch 033 | Train Loss: 0.005580 | Val Loss: 0.003376 | Time: 11.8s
+[2025-09-01 20:24:04,454][INFO] Train Loss: 0.004420
+[2025-09-01 20:24:05,433][INFO] Epoch 034 | Train Loss: 0.004420 | Val Loss: 0.002268 | Time: 12.0s
+[2025-09-01 20:24:16,276][INFO] Train Loss: 0.004478
+[2025-09-01 20:24:17,208][INFO] Epoch 035 | Train Loss: 0.004478 | Val Loss: 0.006775 | Time: 11.8s
+[2025-09-01 20:24:28,331][INFO] Train Loss: 0.005063
+[2025-09-01 20:24:29,392][INFO] Epoch 036 | Train Loss: 0.005063 | Val Loss: 0.001511 | Time: 12.2s
+[2025-09-01 20:24:40,787][INFO] Train Loss: 0.003753
+[2025-09-01 20:24:41,778][INFO] Epoch 037 | Train Loss: 0.003753 | Val Loss: 0.002026 | Time: 12.4s
+[2025-09-01 20:24:53,175][INFO] Train Loss: 0.003477
+[2025-09-01 20:24:54,270][INFO] Epoch 038 | Train Loss: 0.003477 | Val Loss: 0.001803 | Time: 12.5s
+[2025-09-01 20:25:06,289][INFO] Train Loss: 0.003811
+[2025-09-01 20:25:07,258][INFO] Epoch 039 | Train Loss: 0.003811 | Val Loss: 0.003310 | Time: 13.0s
+[2025-09-01 20:25:18,724][INFO] Train Loss: 0.003862
+[2025-09-01 20:25:19,736][INFO] Epoch 040 | Train Loss: 0.003862 | Val Loss: 0.002815 | Time: 12.5s
+[2025-09-01 20:25:31,290][INFO] Train Loss: 0.003286
+[2025-09-01 20:25:32,340][INFO] Epoch 041 | Train Loss: 0.003286 | Val Loss: 0.003237 | Time: 12.6s
+[2025-09-01 20:25:43,671][INFO] Train Loss: 0.003403
+[2025-09-01 20:25:44,641][INFO] Epoch 042 | Train Loss: 0.003403 | Val Loss: 0.002307 | Time: 12.3s
+[2025-09-01 20:25:55,890][INFO] Train Loss: 0.003134
+[2025-09-01 20:25:56,921][INFO] Epoch 043 | Train Loss: 0.003134 | Val Loss: 0.001646 | Time: 12.3s
+[2025-09-01 20:26:08,244][INFO] Train Loss: 0.003298
+[2025-09-01 20:26:09,414][INFO] Epoch 044 | Train Loss: 0.003298 | Val Loss: 0.003819 | Time: 12.5s
+[2025-09-01 20:26:20,762][INFO] Train Loss: 0.002837
+[2025-09-01 20:26:21,720][INFO] Epoch 045 | Train Loss: 0.002837 | Val Loss: 0.002609 | Time: 12.3s
+[2025-09-01 20:26:32,621][INFO] Train Loss: 0.003234
+[2025-09-01 20:26:33,601][INFO] Epoch 046 | Train Loss: 0.003234 | Val Loss: 0.002569 | Time: 11.9s
+[2025-09-01 20:26:44,459][INFO] Train Loss: 0.003005
+[2025-09-01 20:26:45,424][INFO] Epoch 047 | Train Loss: 0.003005 | Val Loss: 0.003507 | Time: 11.8s
+[2025-09-01 20:26:56,228][INFO] Train Loss: 0.003190
+[2025-09-01 20:26:57,162][INFO] Epoch 048 | Train Loss: 0.003190 | Val Loss: 0.002729 | Time: 11.7s
+[2025-09-01 20:27:07,898][INFO] Train Loss: 0.002932
+[2025-09-01 20:27:08,816][INFO] Epoch 049 | Train Loss: 0.002932 | Val Loss: 0.002656 | Time: 11.7s
+[2025-09-01 20:27:19,470][INFO] Train Loss: 0.002932
+[2025-09-01 20:27:20,384][INFO] Epoch 050 | Train Loss: 0.002932 | Val Loss: 0.002610 | Time: 11.6s
+[2025-09-01 20:27:21,331][INFO] Final metrics | MSE: 12.550431 | MAE: 2.920069 | R2: 0.999253
+[2025-09-01 20:27:21,668][INFO] Training complete.

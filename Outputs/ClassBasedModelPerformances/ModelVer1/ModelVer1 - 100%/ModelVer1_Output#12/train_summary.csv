@@ -1,0 +1,12 @@
+Training Set Summary
+Flow (uL/min),Sequences
+0.0,21
+5.0,23
+50.0,20
+100.0,19
+150.0,21
+400.0,24
+
+Total sequences,128
+Frames per sequence,5
+Approx total frames,640

@@ -1,0 +1,12 @@
+Validation Set Summary
+Flow (uL/min),Sequences
+0.0,7
+5.0,5
+50.0,3
+100.0,4
+150.0,6
+400.0,8
+
+Total sequences,33
+Frames per sequence,5
+Approx total frames,165

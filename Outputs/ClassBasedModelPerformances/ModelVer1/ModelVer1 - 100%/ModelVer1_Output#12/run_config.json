@@ -1,0 +1,20 @@
+{
+  "augment_train": true,
+  "batch_size": 8,
+  "cache_videos": false,
+  "data_dir": "data",
+  "grad_clip": 1.0,
+  "lr": 0.001,
+  "normalize": "zscore",
+  "num_epochs": 100,
+  "num_workers": 0,
+  "output_dir": "C:\\Users\\john_\\Downloads\\MyProjects\\outputs",
+  "patience": 10,
+  "safe_mode": true,
+  "seed": 42,
+  "sequence_len": 5,
+  "stride": 1,
+  "test_split": 0.2,
+  "val_samples": 120,
+  "weight_decay": 1e-05
+}

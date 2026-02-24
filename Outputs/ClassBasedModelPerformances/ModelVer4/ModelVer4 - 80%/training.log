@@ -1,0 +1,132 @@
+[2026-01-24 01:52:18,328][INFO] Preparing dataloaders...
+[2026-02-02 23:18:21,227][INFO] Preparing dataloaders...
+[2026-02-02 23:18:47,921][INFO] Train batches: 365, Val batches: 92
+[2026-02-02 23:18:47,960][INFO] Model created with 6 classes and moved to cpu
+[2026-02-02 23:18:51,524][INFO] Starting training loop...
+[2026-02-02 23:19:35,601][INFO] Train Loss: 0.474805
+[2026-02-02 23:19:38,972][INFO] Epoch 001 | Train Loss: 0.474805 | Val Loss: 3.147636 | Time: 47.4s
+[2026-02-02 23:19:39,015][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\outputs\checkpoints\best_model.pth
+[2026-02-02 23:20:22,032][INFO] Train Loss: 0.105120
+[2026-02-02 23:20:25,191][INFO] Epoch 002 | Train Loss: 0.105120 | Val Loss: 8.492954 | Time: 46.2s
+[2026-02-02 23:21:09,197][INFO] Train Loss: 0.115259
+[2026-02-02 23:21:12,382][INFO] Epoch 003 | Train Loss: 0.115259 | Val Loss: 4.179232 | Time: 47.2s
+[2026-02-02 23:21:56,558][INFO] Train Loss: 0.077180
+[2026-02-02 23:22:00,208][INFO] Epoch 004 | Train Loss: 0.077180 | Val Loss: 5.589011 | Time: 47.8s
+[2026-02-02 23:22:45,437][INFO] Train Loss: 0.088500
+[2026-02-02 23:22:48,657][INFO] Epoch 005 | Train Loss: 0.088500 | Val Loss: 3.377204 | Time: 48.4s
+[2026-02-02 23:23:33,534][INFO] Train Loss: 0.079313
+[2026-02-02 23:23:36,765][INFO] Epoch 006 | Train Loss: 0.079313 | Val Loss: 1.595394 | Time: 48.1s
+[2026-02-02 23:23:36,778][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\outputs\checkpoints\best_model.pth
+[2026-02-02 23:24:22,651][INFO] Train Loss: 0.062295
+[2026-02-02 23:24:26,111][INFO] Epoch 007 | Train Loss: 0.062295 | Val Loss: 1.241483 | Time: 49.3s
+[2026-02-02 23:24:26,116][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\outputs\checkpoints\best_model.pth
+[2026-02-02 23:25:10,703][INFO] Train Loss: 0.045413
+[2026-02-02 23:25:14,160][INFO] Epoch 008 | Train Loss: 0.045413 | Val Loss: 0.063933 | Time: 48.0s
+[2026-02-02 23:25:14,170][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\outputs\checkpoints\best_model.pth
+[2026-02-02 23:25:58,376][INFO] Train Loss: 0.046659
+[2026-02-02 23:26:01,846][INFO] Epoch 009 | Train Loss: 0.046659 | Val Loss: 8.787018 | Time: 47.7s
+[2026-02-02 23:26:46,730][INFO] Train Loss: 0.041180
+[2026-02-02 23:26:50,208][INFO] Epoch 010 | Train Loss: 0.041180 | Val Loss: 0.000411 | Time: 48.4s
+[2026-02-02 23:26:50,221][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\outputs\checkpoints\best_model.pth
+[2026-02-02 23:27:34,182][INFO] Train Loss: 0.025660
+[2026-02-02 23:27:37,429][INFO] Epoch 011 | Train Loss: 0.025660 | Val Loss: 0.043914 | Time: 47.2s
+[2026-02-02 23:28:22,173][INFO] Train Loss: 0.039905
+[2026-02-02 23:28:25,461][INFO] Epoch 012 | Train Loss: 0.039905 | Val Loss: 2.418405 | Time: 48.0s
+[2026-02-02 23:29:10,099][INFO] Train Loss: 0.038206
+[2026-02-02 23:29:13,557][INFO] Epoch 013 | Train Loss: 0.038206 | Val Loss: 0.025651 | Time: 48.1s
+[2026-02-02 23:29:57,101][INFO] Train Loss: 0.093444
+[2026-02-02 23:30:00,507][INFO] Epoch 014 | Train Loss: 0.093444 | Val Loss: 0.000006 | Time: 46.9s
+[2026-02-02 23:30:00,521][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\outputs\checkpoints\best_model.pth
+[2026-02-02 23:30:45,483][INFO] Train Loss: 0.021448
+[2026-02-02 23:30:48,929][INFO] Epoch 015 | Train Loss: 0.021448 | Val Loss: 0.000534 | Time: 48.4s
+[2026-02-02 23:31:34,498][INFO] Train Loss: 0.046703
+[2026-02-02 23:31:38,456][INFO] Epoch 016 | Train Loss: 0.046703 | Val Loss: 0.000622 | Time: 49.5s
+[2026-02-02 23:32:24,123][INFO] Train Loss: 0.017794
+[2026-02-02 23:32:27,577][INFO] Epoch 017 | Train Loss: 0.017794 | Val Loss: 0.006361 | Time: 49.1s
+[2026-02-02 23:33:12,832][INFO] Train Loss: 0.028498
+[2026-02-02 23:33:16,087][INFO] Epoch 018 | Train Loss: 0.028498 | Val Loss: 0.016532 | Time: 48.5s
+[2026-02-02 23:34:01,540][INFO] Train Loss: 0.029613
+[2026-02-02 23:34:04,744][INFO] Epoch 019 | Train Loss: 0.029613 | Val Loss: 0.472237 | Time: 48.7s
+[2026-02-02 23:34:50,451][INFO] Train Loss: 0.006791
+[2026-02-02 23:34:53,705][INFO] Epoch 020 | Train Loss: 0.006791 | Val Loss: 0.005618 | Time: 49.0s
+[2026-02-02 23:35:39,019][INFO] Train Loss: 0.004694
+[2026-02-02 23:35:42,255][INFO] Epoch 021 | Train Loss: 0.004694 | Val Loss: 0.577915 | Time: 48.5s
+[2026-02-02 23:36:27,612][INFO] Train Loss: 0.002257
+[2026-02-02 23:36:30,835][INFO] Epoch 022 | Train Loss: 0.002257 | Val Loss: 0.000000 | Time: 48.6s
+[2026-02-02 23:36:30,848][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\outputs\checkpoints\best_model.pth
+[2026-02-02 23:37:16,378][INFO] Train Loss: 0.007498
+[2026-02-02 23:37:19,866][INFO] Epoch 023 | Train Loss: 0.007498 | Val Loss: 0.001926 | Time: 49.0s
+[2026-02-02 23:38:04,919][INFO] Train Loss: 0.005693
+[2026-02-02 23:38:08,457][INFO] Epoch 024 | Train Loss: 0.005693 | Val Loss: 0.000002 | Time: 48.6s
+[2026-02-02 23:38:53,823][INFO] Train Loss: 0.012350
+[2026-02-02 23:38:57,330][INFO] Epoch 025 | Train Loss: 0.012350 | Val Loss: 4.598178 | Time: 48.9s
+[2026-02-02 23:39:42,548][INFO] Train Loss: 0.009994
+[2026-02-02 23:39:45,879][INFO] Epoch 026 | Train Loss: 0.009994 | Val Loss: 0.025433 | Time: 48.5s
+[2026-02-02 23:40:30,863][INFO] Train Loss: 0.007971
+[2026-02-02 23:40:34,445][INFO] Epoch 027 | Train Loss: 0.007971 | Val Loss: 0.017266 | Time: 48.6s
+[2026-02-02 23:41:19,294][INFO] Train Loss: 0.001253
+[2026-02-02 23:41:22,747][INFO] Epoch 028 | Train Loss: 0.001253 | Val Loss: 0.000000 | Time: 48.3s
+[2026-02-02 23:41:22,760][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\outputs\checkpoints\best_model.pth
+[2026-02-02 23:42:07,364][INFO] Train Loss: 0.004238
+[2026-02-02 23:42:10,857][INFO] Epoch 029 | Train Loss: 0.004238 | Val Loss: 0.000001 | Time: 48.1s
+[2026-02-02 23:42:55,491][INFO] Train Loss: 0.003007
+[2026-02-02 23:42:58,753][INFO] Epoch 030 | Train Loss: 0.003007 | Val Loss: 0.000000 | Time: 47.9s
+[2026-02-02 23:42:58,767][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\outputs\checkpoints\best_model.pth
+[2026-02-02 23:43:44,094][INFO] Train Loss: 0.001314
+[2026-02-02 23:43:47,522][INFO] Epoch 031 | Train Loss: 0.001314 | Val Loss: 0.000000 | Time: 48.8s
+[2026-02-02 23:44:32,588][INFO] Train Loss: 0.002217
+[2026-02-02 23:44:35,857][INFO] Epoch 032 | Train Loss: 0.002217 | Val Loss: 0.000000 | Time: 48.3s
+[2026-02-02 23:45:20,412][INFO] Train Loss: 0.009751
+[2026-02-02 23:45:23,837][INFO] Epoch 033 | Train Loss: 0.009751 | Val Loss: 0.000001 | Time: 48.0s
+[2026-02-02 23:46:08,916][INFO] Train Loss: 0.002473
+[2026-02-02 23:46:12,092][INFO] Epoch 034 | Train Loss: 0.002473 | Val Loss: 0.000000 | Time: 48.3s
+[2026-02-02 23:46:56,289][INFO] Train Loss: 0.000851
+[2026-02-02 23:46:59,546][INFO] Epoch 035 | Train Loss: 0.000851 | Val Loss: 0.000000 | Time: 47.5s
+[2026-02-02 23:47:44,271][INFO] Train Loss: 0.000778
+[2026-02-02 23:47:47,513][INFO] Epoch 036 | Train Loss: 0.000778 | Val Loss: 0.000000 | Time: 48.0s
+[2026-02-02 23:48:32,072][INFO] Train Loss: 0.000303
+[2026-02-02 23:48:35,278][INFO] Epoch 037 | Train Loss: 0.000303 | Val Loss: 0.000000 | Time: 47.8s
+[2026-02-02 23:48:35,291][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\outputs\checkpoints\best_model.pth
+[2026-02-02 23:49:20,381][INFO] Train Loss: 0.000046
+[2026-02-02 23:49:23,545][INFO] Epoch 038 | Train Loss: 0.000046 | Val Loss: 0.000000 | Time: 48.3s
+[2026-02-02 23:49:23,559][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\outputs\checkpoints\best_model.pth
+[2026-02-02 23:50:08,621][INFO] Train Loss: 0.000019
+[2026-02-02 23:50:12,113][INFO] Epoch 039 | Train Loss: 0.000019 | Val Loss: 0.000000 | Time: 48.6s
+[2026-02-02 23:50:55,616][INFO] Train Loss: 0.001113
+[2026-02-02 23:50:58,822][INFO] Epoch 040 | Train Loss: 0.001113 | Val Loss: 0.000024 | Time: 46.7s
+[2026-02-02 23:51:42,054][INFO] Train Loss: 0.005600
+[2026-02-02 23:51:45,306][INFO] Epoch 041 | Train Loss: 0.005600 | Val Loss: 0.000000 | Time: 46.5s
+[2026-02-02 23:52:30,089][INFO] Train Loss: 0.000069
+[2026-02-02 23:52:33,485][INFO] Epoch 042 | Train Loss: 0.000069 | Val Loss: 0.000000 | Time: 48.2s
+[2026-02-02 23:53:16,158][INFO] Train Loss: 0.000987
+[2026-02-02 23:53:19,383][INFO] Epoch 043 | Train Loss: 0.000987 | Val Loss: 0.000000 | Time: 45.9s
+[2026-02-02 23:54:03,685][INFO] Train Loss: 0.000061
+[2026-02-02 23:54:06,963][INFO] Epoch 044 | Train Loss: 0.000061 | Val Loss: 0.000000 | Time: 47.6s
+[2026-02-02 23:54:51,512][INFO] Train Loss: 0.000058
+[2026-02-02 23:54:55,038][INFO] Epoch 045 | Train Loss: 0.000058 | Val Loss: 0.000000 | Time: 48.1s
+[2026-02-02 23:55:37,837][INFO] Train Loss: 0.000023
+[2026-02-02 23:55:41,071][INFO] Epoch 046 | Train Loss: 0.000023 | Val Loss: 0.000000 | Time: 46.0s
+[2026-02-02 23:56:24,542][INFO] Train Loss: 0.001135
+[2026-02-02 23:56:27,923][INFO] Epoch 047 | Train Loss: 0.001135 | Val Loss: 0.000000 | Time: 46.9s
+[2026-02-02 23:57:12,957][INFO] Train Loss: 0.000138
+[2026-02-02 23:57:16,437][INFO] Epoch 048 | Train Loss: 0.000138 | Val Loss: 0.000000 | Time: 48.5s
+[2026-02-02 23:58:01,582][INFO] Train Loss: 0.000640
+[2026-02-02 23:58:05,164][INFO] Epoch 049 | Train Loss: 0.000640 | Val Loss: 0.000000 | Time: 48.7s
+[2026-02-02 23:58:50,520][INFO] Train Loss: 0.000309
+[2026-02-02 23:58:54,171][INFO] Epoch 050 | Train Loss: 0.000309 | Val Loss: 0.000000 | Time: 49.0s
+[2026-02-02 23:58:57,651][INFO] Final metrics | Val Loss: 0.000000 | Accuracy: 1.0000
+[2026-02-02 23:58:57,665][INFO] Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       112
+           1       1.00      1.00      1.00        85
+           2       1.00      1.00      1.00       154
+           3       1.00      1.00      1.00       163
+           4       1.00      1.00      1.00       107
+           5       1.00      1.00      1.00       109
+
+    accuracy                           1.00       730
+   macro avg       1.00      1.00      1.00       730
+weighted avg       1.00      1.00      1.00       730
+
+[2026-02-02 23:58:58,216][INFO] Training complete. Confusion matrix and prediction plots saved.
