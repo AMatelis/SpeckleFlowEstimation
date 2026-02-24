@@ -1,0 +1,207 @@
+[2026-02-18 19:06:44,266][INFO] Preparing dataloaders...
+[2026-02-18 19:07:54,738][INFO] Model created and moved to cpu
+[2026-02-18 19:08:01,650][INFO] Starting training loop...
+[2026-02-18 19:08:49,077][INFO] Train Loss: 28003.095548
+[2026-02-18 19:08:51,148][INFO] Epoch 001 | Train Loss: 28003.095548 | Val Loss: 19409.367437 | Time: 49.5s
+[2026-02-18 19:08:51,187][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\checkpoints\best_model.pth
+[2026-02-18 19:08:51,194][INFO] Saved epoch 1 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_1_predictions.csv
+[2026-02-18 19:09:34,485][INFO] Train Loss: 17037.963882
+[2026-02-18 19:09:36,329][INFO] Epoch 002 | Train Loss: 17037.963882 | Val Loss: 9849.431376 | Time: 45.1s
+[2026-02-18 19:09:36,337][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\checkpoints\best_model.pth
+[2026-02-18 19:09:36,343][INFO] Saved epoch 2 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_2_predictions.csv
+[2026-02-18 19:10:15,017][INFO] Train Loss: 7821.385678
+[2026-02-18 19:10:20,108][INFO] Epoch 003 | Train Loss: 7821.385678 | Val Loss: 10227.995967 | Time: 43.8s
+[2026-02-18 19:10:20,120][INFO] Saved epoch 3 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_3_predictions.csv
+[2026-02-18 19:11:02,166][INFO] Train Loss: 4064.340561
+[2026-02-18 19:11:03,984][INFO] Epoch 004 | Train Loss: 4064.340561 | Val Loss: 4332.087758 | Time: 43.9s
+[2026-02-18 19:11:03,994][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\checkpoints\best_model.pth
+[2026-02-18 19:11:04,001][INFO] Saved epoch 4 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_4_predictions.csv
+[2026-02-18 19:11:31,928][INFO] Train Loss: 3169.227628
+[2026-02-18 19:11:34,240][INFO] Epoch 005 | Train Loss: 3169.227628 | Val Loss: 4789.211344 | Time: 30.2s
+[2026-02-18 19:11:34,246][INFO] Saved epoch 5 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_5_predictions.csv
+[2026-02-18 19:12:10,320][INFO] Train Loss: 2568.032636
+[2026-02-18 19:12:12,026][INFO] Epoch 006 | Train Loss: 2568.032636 | Val Loss: 2057.162540 | Time: 37.8s
+[2026-02-18 19:12:12,032][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\checkpoints\best_model.pth
+[2026-02-18 19:12:12,034][INFO] Saved epoch 6 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_6_predictions.csv
+[2026-02-18 19:12:45,909][INFO] Train Loss: 2154.870769
+[2026-02-18 19:12:47,772][INFO] Epoch 007 | Train Loss: 2154.870769 | Val Loss: 987.177992 | Time: 35.7s
+[2026-02-18 19:12:47,776][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\checkpoints\best_model.pth
+[2026-02-18 19:12:47,781][INFO] Saved epoch 7 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_7_predictions.csv
+[2026-02-18 19:13:11,249][INFO] Train Loss: 1709.905042
+[2026-02-18 19:13:13,059][INFO] Epoch 008 | Train Loss: 1709.905042 | Val Loss: 2690.923546 | Time: 25.3s
+[2026-02-18 19:13:13,063][INFO] Saved epoch 8 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_8_predictions.csv
+[2026-02-18 19:13:35,869][INFO] Train Loss: 1723.820506
+[2026-02-18 19:13:37,549][INFO] Epoch 009 | Train Loss: 1723.820506 | Val Loss: 1602.619102 | Time: 24.5s
+[2026-02-18 19:13:37,555][INFO] Saved epoch 9 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_9_predictions.csv
+[2026-02-18 19:15:55,585][INFO] Preparing dataloaders...
+[2026-02-18 19:18:29,110][INFO] Preparing dataloaders...
+[2026-02-18 19:19:19,761][INFO] Model created and moved to cpu
+[2026-02-18 19:19:25,693][INFO] Starting training loop...
+[2026-02-18 19:19:39,419][INFO] Train Loss: 25978.420694
+[2026-02-18 19:19:40,543][INFO] Epoch 001 | Train Loss: 25978.420694 | Val Loss: 32337.574663 | Time: 14.8s
+[2026-02-18 19:19:40,567][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\checkpoints\best_model.pth
+[2026-02-18 19:19:40,567][INFO] Saved epoch 1 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_1_predictions.csv
+[2026-02-18 19:19:53,149][INFO] Train Loss: 24172.866699
+[2026-02-18 19:19:54,305][INFO] Epoch 002 | Train Loss: 24172.866699 | Val Loss: 33227.740488 | Time: 13.7s
+[2026-02-18 19:19:54,314][INFO] Saved epoch 2 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_2_predictions.csv
+[2026-02-18 19:20:07,370][INFO] Train Loss: 22294.102166
+[2026-02-18 19:20:08,585][INFO] Epoch 003 | Train Loss: 22294.102166 | Val Loss: 29706.103338 | Time: 14.3s
+[2026-02-18 19:20:08,598][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\checkpoints\best_model.pth
+[2026-02-18 19:20:08,609][INFO] Saved epoch 3 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_3_predictions.csv
+[2026-02-18 19:20:21,870][INFO] Train Loss: 20474.956023
+[2026-02-18 19:20:22,962][INFO] Epoch 004 | Train Loss: 20474.956023 | Val Loss: 20939.381956 | Time: 14.4s
+[2026-02-18 19:20:22,976][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\checkpoints\best_model.pth
+[2026-02-18 19:20:22,987][INFO] Saved epoch 4 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_4_predictions.csv
+[2026-02-18 19:20:35,701][INFO] Train Loss: 18671.008521
+[2026-02-18 19:20:36,875][INFO] Epoch 005 | Train Loss: 18671.008521 | Val Loss: 21757.777115 | Time: 13.9s
+[2026-02-18 19:20:36,883][INFO] Saved epoch 5 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_5_predictions.csv
+[2026-02-18 19:20:50,299][INFO] Train Loss: 16143.632852
+[2026-02-18 19:20:51,521][INFO] Epoch 006 | Train Loss: 16143.632852 | Val Loss: 18396.333059 | Time: 14.6s
+[2026-02-18 19:20:51,537][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\checkpoints\best_model.pth
+[2026-02-18 19:20:51,545][INFO] Saved epoch 6 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_6_predictions.csv
+[2026-02-18 19:21:04,938][INFO] Train Loss: 14751.835086
+[2026-02-18 19:21:06,214][INFO] Epoch 007 | Train Loss: 14751.835086 | Val Loss: 14871.110700 | Time: 14.7s
+[2026-02-18 19:21:06,230][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\checkpoints\best_model.pth
+[2026-02-18 19:21:06,239][INFO] Saved epoch 7 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_7_predictions.csv
+[2026-02-18 19:21:19,233][INFO] Train Loss: 12354.524744
+[2026-02-18 19:21:20,431][INFO] Epoch 008 | Train Loss: 12354.524744 | Val Loss: 4299.618839 | Time: 14.2s
+[2026-02-18 19:21:20,442][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\checkpoints\best_model.pth
+[2026-02-18 19:21:20,454][INFO] Saved epoch 8 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_8_predictions.csv
+[2026-02-18 19:21:33,970][INFO] Train Loss: 10850.602304
+[2026-02-18 19:21:35,294][INFO] Epoch 009 | Train Loss: 10850.602304 | Val Loss: 7754.704057 | Time: 14.8s
+[2026-02-18 19:21:35,304][INFO] Saved epoch 9 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_9_predictions.csv
+[2026-02-18 19:21:50,173][INFO] Train Loss: 9256.618403
+[2026-02-18 19:21:51,399][INFO] Epoch 010 | Train Loss: 9256.618403 | Val Loss: 10407.356724 | Time: 16.1s
+[2026-02-18 19:21:51,399][INFO] Saved epoch 10 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_10_predictions.csv
+[2026-02-18 19:22:05,181][INFO] Train Loss: 8280.436436
+[2026-02-18 19:22:06,560][INFO] Epoch 011 | Train Loss: 8280.436436 | Val Loss: 17473.695401 | Time: 14.2s
+[2026-02-18 19:22:06,560][INFO] Saved epoch 11 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_11_predictions.csv
+[2026-02-18 19:22:19,726][INFO] Train Loss: 6719.640159
+[2026-02-18 19:22:21,083][INFO] Epoch 012 | Train Loss: 6719.640159 | Val Loss: 8423.842038 | Time: 14.5s
+[2026-02-18 19:22:21,099][INFO] Saved epoch 12 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_12_predictions.csv
+[2026-02-18 19:22:34,094][INFO] Train Loss: 6058.122842
+[2026-02-18 19:22:35,330][INFO] Epoch 013 | Train Loss: 6058.122842 | Val Loss: 1955.143323 | Time: 14.2s
+[2026-02-18 19:22:35,336][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\checkpoints\best_model.pth
+[2026-02-18 19:22:35,354][INFO] Saved epoch 13 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_13_predictions.csv
+[2026-02-18 19:22:48,611][INFO] Train Loss: 5673.094887
+[2026-02-18 19:22:49,786][INFO] Epoch 014 | Train Loss: 5673.094887 | Val Loss: 1169.521472 | Time: 14.4s
+[2026-02-18 19:22:49,801][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\checkpoints\best_model.pth
+[2026-02-18 19:22:49,810][INFO] Saved epoch 14 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_14_predictions.csv
+[2026-02-18 19:23:01,725][INFO] Train Loss: 4287.161698
+[2026-02-18 19:23:02,163][INFO] Epoch 015 | Train Loss: 4287.161698 | Val Loss: 3578.827421 | Time: 12.4s
+[2026-02-18 19:23:02,168][INFO] Saved epoch 15 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_15_predictions.csv
+[2026-02-18 19:23:13,907][INFO] Train Loss: 3952.641514
+[2026-02-18 19:23:15,105][INFO] Epoch 016 | Train Loss: 3952.641514 | Val Loss: 3266.905340 | Time: 12.9s
+[2026-02-18 19:23:15,117][INFO] Saved epoch 16 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_16_predictions.csv
+[2026-02-18 19:23:28,397][INFO] Train Loss: 3366.603271
+[2026-02-18 19:23:29,517][INFO] Epoch 017 | Train Loss: 3366.603271 | Val Loss: 8810.566622 | Time: 14.4s
+[2026-02-18 19:23:29,524][INFO] Saved epoch 17 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_17_predictions.csv
+[2026-02-18 19:23:43,005][INFO] Train Loss: 2731.548079
+[2026-02-18 19:23:44,176][INFO] Epoch 018 | Train Loss: 2731.548079 | Val Loss: 561.191329 | Time: 14.7s
+[2026-02-18 19:23:44,189][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\checkpoints\best_model.pth
+[2026-02-18 19:23:44,197][INFO] Saved epoch 18 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_18_predictions.csv
+[2026-02-18 19:23:57,987][INFO] Train Loss: 3222.515761
+[2026-02-18 19:23:59,159][INFO] Epoch 019 | Train Loss: 3222.515761 | Val Loss: 755.126615 | Time: 15.0s
+[2026-02-18 19:23:59,167][INFO] Saved epoch 19 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_19_predictions.csv
+[2026-02-18 19:24:12,810][INFO] Train Loss: 2133.368125
+[2026-02-18 19:24:13,952][INFO] Epoch 020 | Train Loss: 2133.368125 | Val Loss: 80527.551441 | Time: 14.8s
+[2026-02-18 19:24:13,960][INFO] Saved epoch 20 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_20_predictions.csv
+[2026-02-18 19:24:27,923][INFO] Train Loss: 3582.061993
+[2026-02-18 19:24:29,074][INFO] Epoch 021 | Train Loss: 3582.061993 | Val Loss: 1773.646445 | Time: 14.5s
+[2026-02-18 19:24:29,085][INFO] Saved epoch 21 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_21_predictions.csv
+[2026-02-18 19:24:40,516][INFO] Train Loss: 2367.350438
+[2026-02-18 19:24:40,963][INFO] Epoch 022 | Train Loss: 2367.350438 | Val Loss: 7293.814719 | Time: 11.9s
+[2026-02-18 19:24:40,969][INFO] Saved epoch 22 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_22_predictions.csv
+[2026-02-18 19:24:53,579][INFO] Train Loss: 3488.237136
+[2026-02-18 19:24:54,774][INFO] Epoch 023 | Train Loss: 3488.237136 | Val Loss: 488.868868 | Time: 13.8s
+[2026-02-18 19:24:54,788][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\checkpoints\best_model.pth
+[2026-02-18 19:24:54,796][INFO] Saved epoch 23 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_23_predictions.csv
+[2026-02-18 19:25:08,590][INFO] Train Loss: 2207.302796
+[2026-02-18 19:25:09,809][INFO] Epoch 024 | Train Loss: 2207.302796 | Val Loss: 1090.366320 | Time: 15.0s
+[2026-02-18 19:25:09,817][INFO] Saved epoch 24 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_24_predictions.csv
+[2026-02-18 19:25:15,687][INFO] Train Loss: 1969.815506
+[2026-02-18 19:25:16,157][INFO] Epoch 025 | Train Loss: 1969.815506 | Val Loss: 686.477019 | Time: 6.3s
+[2026-02-18 19:25:16,163][INFO] Saved epoch 25 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_25_predictions.csv
+[2026-02-18 19:25:21,027][INFO] Train Loss: 2909.230585
+[2026-02-18 19:25:21,431][INFO] Epoch 026 | Train Loss: 2909.230585 | Val Loss: 41366.846033 | Time: 5.3s
+[2026-02-18 19:25:21,436][INFO] Saved epoch 26 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_26_predictions.csv
+[2026-02-18 19:25:26,138][INFO] Train Loss: 2891.661705
+[2026-02-18 19:25:26,495][INFO] Epoch 027 | Train Loss: 2891.661705 | Val Loss: 1668.925686 | Time: 5.1s
+[2026-02-18 19:25:26,502][INFO] Saved epoch 27 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_27_predictions.csv
+[2026-02-18 19:25:31,098][INFO] Train Loss: 2410.791656
+[2026-02-18 19:25:31,449][INFO] Epoch 028 | Train Loss: 2410.791656 | Val Loss: 2492.327437 | Time: 4.9s
+[2026-02-18 19:25:31,456][INFO] Saved epoch 28 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_28_predictions.csv
+[2026-02-18 19:25:36,495][INFO] Train Loss: 1902.850012
+[2026-02-18 19:25:36,912][INFO] Epoch 029 | Train Loss: 1902.850012 | Val Loss: 865.597289 | Time: 5.5s
+[2026-02-18 19:25:36,918][INFO] Saved epoch 29 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_29_predictions.csv
+[2026-02-18 19:25:44,064][INFO] Train Loss: 1869.485965
+[2026-02-18 19:25:45,332][INFO] Epoch 030 | Train Loss: 1869.485965 | Val Loss: 1710.041339 | Time: 8.4s
+[2026-02-18 19:25:45,340][INFO] Saved epoch 30 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_30_predictions.csv
+[2026-02-18 19:25:57,117][INFO] Train Loss: 1671.840138
+[2026-02-18 19:25:57,559][INFO] Epoch 031 | Train Loss: 1671.840138 | Val Loss: 3509.390324 | Time: 11.4s
+[2026-02-18 19:25:57,559][INFO] Saved epoch 31 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_31_predictions.csv
+[2026-02-18 19:26:10,017][INFO] Train Loss: 1763.135465
+[2026-02-18 19:26:11,162][INFO] Epoch 032 | Train Loss: 1763.135465 | Val Loss: 484.677190 | Time: 13.6s
+[2026-02-18 19:26:11,178][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\checkpoints\best_model.pth
+[2026-02-18 19:26:11,185][INFO] Saved epoch 32 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_32_predictions.csv
+[2026-02-18 19:26:25,006][INFO] Train Loss: 2385.344787
+[2026-02-18 19:26:26,305][INFO] Epoch 033 | Train Loss: 2385.344787 | Val Loss: 672.175561 | Time: 15.1s
+[2026-02-18 19:26:26,313][INFO] Saved epoch 33 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_33_predictions.csv
+[2026-02-18 19:26:40,437][INFO] Train Loss: 1386.698559
+[2026-02-18 19:26:41,642][INFO] Epoch 034 | Train Loss: 1386.698559 | Val Loss: 272.037132 | Time: 15.3s
+[2026-02-18 19:26:41,656][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\checkpoints\best_model.pth
+[2026-02-18 19:26:41,667][INFO] Saved epoch 34 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_34_predictions.csv
+[2026-02-18 19:26:55,774][INFO] Train Loss: 1897.383654
+[2026-02-18 19:26:57,005][INFO] Epoch 035 | Train Loss: 1897.383654 | Val Loss: 210.964126 | Time: 15.3s
+[2026-02-18 19:26:57,019][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\checkpoints\best_model.pth
+[2026-02-18 19:26:57,028][INFO] Saved epoch 35 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_35_predictions.csv
+[2026-02-18 19:27:11,402][INFO] Train Loss: 1851.502696
+[2026-02-18 19:27:12,629][INFO] Epoch 036 | Train Loss: 1851.502696 | Val Loss: 231.242654 | Time: 15.6s
+[2026-02-18 19:27:12,638][INFO] Saved epoch 36 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_36_predictions.csv
+[2026-02-18 19:27:26,042][INFO] Train Loss: 1418.020774
+[2026-02-18 19:27:27,199][INFO] Epoch 037 | Train Loss: 1418.020774 | Val Loss: 4241.826311 | Time: 14.6s
+[2026-02-18 19:27:27,208][INFO] Saved epoch 37 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_37_predictions.csv
+[2026-02-18 19:27:40,770][INFO] Train Loss: 1316.803427
+[2026-02-18 19:27:41,963][INFO] Epoch 038 | Train Loss: 1316.803427 | Val Loss: 392.932614 | Time: 14.8s
+[2026-02-18 19:27:41,971][INFO] Saved epoch 38 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_38_predictions.csv
+[2026-02-18 19:27:55,389][INFO] Train Loss: 1625.223975
+[2026-02-18 19:27:56,733][INFO] Epoch 039 | Train Loss: 1625.223975 | Val Loss: 2822.162212 | Time: 14.8s
+[2026-02-18 19:27:56,741][INFO] Saved epoch 39 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_39_predictions.csv
+[2026-02-18 19:28:09,994][INFO] Train Loss: 1520.557395
+[2026-02-18 19:28:11,209][INFO] Epoch 040 | Train Loss: 1520.557395 | Val Loss: 198.712197 | Time: 14.5s
+[2026-02-18 19:28:11,223][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\checkpoints\best_model.pth
+[2026-02-18 19:28:11,231][INFO] Saved epoch 40 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_40_predictions.csv
+[2026-02-18 19:28:25,009][INFO] Train Loss: 1572.554102
+[2026-02-18 19:28:26,097][INFO] Epoch 041 | Train Loss: 1572.554102 | Val Loss: 401.170103 | Time: 14.2s
+[2026-02-18 19:28:26,107][INFO] Saved epoch 41 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_41_predictions.csv
+[2026-02-18 19:28:39,272][INFO] Train Loss: 1489.496208
+[2026-02-18 19:28:40,538][INFO] Epoch 042 | Train Loss: 1489.496208 | Val Loss: 934.833184 | Time: 14.4s
+[2026-02-18 19:28:40,547][INFO] Saved epoch 42 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_42_predictions.csv
+[2026-02-18 19:28:53,244][INFO] Train Loss: 1458.336691
+[2026-02-18 19:28:54,457][INFO] Epoch 043 | Train Loss: 1458.336691 | Val Loss: 284.133038 | Time: 13.9s
+[2026-02-18 19:28:54,466][INFO] Saved epoch 43 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_43_predictions.csv
+[2026-02-18 19:29:07,963][INFO] Train Loss: 1470.392368
+[2026-02-18 19:29:09,211][INFO] Epoch 044 | Train Loss: 1470.392368 | Val Loss: 541.129288 | Time: 14.7s
+[2026-02-18 19:29:09,220][INFO] Saved epoch 44 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_44_predictions.csv
+[2026-02-18 19:29:22,331][INFO] Train Loss: 1765.299307
+[2026-02-18 19:29:23,509][INFO] Epoch 045 | Train Loss: 1765.299307 | Val Loss: 160.492841 | Time: 14.3s
+[2026-02-18 19:29:23,526][INFO] Saved best model to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\checkpoints\best_model.pth
+[2026-02-18 19:29:23,534][INFO] Saved epoch 45 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_45_predictions.csv
+[2026-02-18 19:29:36,873][INFO] Train Loss: 1290.866937
+[2026-02-18 19:29:38,186][INFO] Epoch 046 | Train Loss: 1290.866937 | Val Loss: 216.866038 | Time: 14.7s
+[2026-02-18 19:29:38,194][INFO] Saved epoch 46 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_46_predictions.csv
+[2026-02-18 19:29:51,129][INFO] Train Loss: 1799.344837
+[2026-02-18 19:29:52,324][INFO] Epoch 047 | Train Loss: 1799.344837 | Val Loss: 1862.672989 | Time: 14.1s
+[2026-02-18 19:29:52,334][INFO] Saved epoch 47 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_47_predictions.csv
+[2026-02-18 19:30:05,571][INFO] Train Loss: 1157.398515
+[2026-02-18 19:30:06,957][INFO] Epoch 048 | Train Loss: 1157.398515 | Val Loss: 378.279788 | Time: 14.6s
+[2026-02-18 19:30:06,967][INFO] Saved epoch 48 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_48_predictions.csv
+[2026-02-18 19:30:20,309][INFO] Train Loss: 2087.152859
+[2026-02-18 19:30:21,486][INFO] Epoch 049 | Train Loss: 2087.152859 | Val Loss: 1244.601509 | Time: 14.5s
+[2026-02-18 19:30:21,495][INFO] Saved epoch 49 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_49_predictions.csv
+[2026-02-18 19:30:34,602][INFO] Train Loss: 2467.167439
+[2026-02-18 19:30:35,803][INFO] Epoch 050 | Train Loss: 2467.167439 | Val Loss: 388.700932 | Time: 14.3s
+[2026-02-18 19:30:35,811][INFO] Saved epoch 50 predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_predictions\epoch_50_predictions.csv
+[2026-02-18 19:30:36,470][INFO] Training complete. Loading best model for final evaluation.
+[2026-02-18 19:30:37,818][INFO] Final Val MSE Loss: 160.492841
+[2026-02-18 19:30:39,210][INFO] Saved epoch final predictions to C:\Users\andre\Downloads\Projects\SpeckleModelProject\Models\SpeckleModelCodeVer5\outputs\epoch_final_predictions.csv

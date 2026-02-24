@@ -1,0 +1,35 @@
+Comparative Model Analysis
+Model 1. 3D CNN End to End Regression
+The 3D CNN regression architecture directly learns spatiotemporal dynamics from full video sequences. Performance improves consistently with increasing dataset size. At 20 percent coverage, the model achieves R² = 0.996 with MAE = 6.25 µL per minute. At 80 percent coverage, performance reaches R² = 0.9996 with MAE = 2.096 µL per minute and MSE = 7.418, indicating strong quantitative accuracy across the full flow range.
+Medium and high flow regimes show minimal absolute and relative error. Residual error is concentrated at very low flows, where small absolute deviations produce larger relative percentages. Compared to 2D regression, the inclusion of temporal information provides improved robustness during dynamic flow variation, particularly as dataset size increases.
+Model 2. 3D CNN Classification
+The 3D classification model achieves high accuracy even with limited data, reaching 87 percent accuracy at 20 percent coverage and 100 percent accuracy at 60 percent and above. Convergence is rapid, and performance plateaus as dataset size increases.
+Misclassifications, when present at lower dataset fractions, occur primarily between adjacent low flow classes where signal separability is minimal. Because the model predicts discrete categories rather than continuous magnitudes, it demonstrates faster convergence and lower sensitivity to numerical noise compared to regression architectures.
+Model 3. 2D CNN Regression
+The 2D CNN regression model demonstrates extremely high quantitative performance across all dataset fractions. Even at 20 percent coverage, R² = 0.9998, indicating near complete variance capture. At 60 to 80 percent coverage, performance remains consistently high with minimal MSE and MAE across the 0 to 400 µL per minute range.
+While early epochs show instability, convergence becomes tight with increasing data. Compared to 3D regression, aggregate metrics are comparable or slightly higher in R²; however, the absence of temporal context results in slightly greater sensitivity to variability at very low flows.
+Model 4. 2D CNN Classification
+The 2D classification model achieves 100 percent accuracy from 40 percent dataset coverage onward. Performance is comparable to the 3D classification architecture in final accuracy.
+Discrete class boundaries simplify optimization, resulting in rapid convergence and minimal variance across epochs. As with all classification approaches, the model provides categorical discrimination but does not quantify magnitude level precision within each class.
+Model 5. 2D CNN with Linear Regression Head
+This architecture combines spatial feature extraction with a linear mapping to continuous outputs. At 40 percent coverage, it achieves R² = 0.9978 with MAE = 4.36 µL per minute. At 60 to 80 percent coverage, R² remains near 0.998 with MAE typically between 4 and 5 µL per minute.
+Performance is highly consistent across medium and high flows. Relative deviations are slightly larger at very low flows due to small magnitude effects. Compared to end to end 2D regression, performance is nearly equivalent, indicating that the linear head effectively maps learned spatial features to quantitative flow values.
+Model 6. 3D CNN with Linear Regression Head
+Model 6 integrates spatiotemporal feature extraction with a linear regression layer. At 20 percent coverage, performance is limited, with moderate convergence and higher variance. At 60 percent coverage, R² improves to approximately 0.95 with MSE ≈ 0.0031 and MAE ≈ 0.041 in normalized units.
+At 80 percent coverage, R² stabilizes near 0.96 with MSE between 0.002 and 0.003 and MAE near 0.035 to 0.037. Training and validation loss remain closely aligned, indicating minimal overfitting. Although temporal encoding is present, final R² remains slightly below end to end 3D regression, suggesting that the linear head limits full nonlinear utilization of extracted 3D features.
+Cross Model Comparison
+Regression vs Classification
+Classification models achieve perfect or near perfect accuracy at smaller dataset fractions, reaching 100 percent accuracy by 60 percent coverage. They converge more rapidly and show low sensitivity to numerical noise.
+Regression models provide precise quantitative flow estimation, achieving R² values up to 0.9996 and MAE as low as 2.096 µL per minute. However, they require larger dataset fractions to stabilize, particularly at low flows.
+From an application standpoint, classification is optimal for discrete flow state detection, while regression is required for continuous quantitative flow estimation.
+2D vs 3D Architectures
+3D architectures incorporate temporal dynamics and demonstrate improved robustness during flow transitions, particularly in regression settings.
+However, 2D regression models achieve comparable and in some cases slightly higher final R² values, often exceeding 0.999 at moderate dataset sizes. This indicates that strong spatial features alone encode substantial flow information. Temporal context provides incremental improvements in stability rather than large gains in aggregate metrics.
+Effect of Dataset Size
+All models demonstrate improved stability and reduced variance as dataset size increases from 20 percent to 80 percent. The most substantial gains occur between 20 percent and 60 percent coverage.
+Beyond 60 percent, improvements are incremental for most architectures, indicating partial saturation of learnable variance within the dataset.
+
+Low Flow Sensitivity
+Across all regression architectures, residual error is concentrated at very low flow rates. Absolute errors remain small, but relative percentages appear larger due to small signal magnitudes.
+Classification models show minor confusion between adjacent low flow classes at reduced dataset fractions, which resolves with increased data coverage.
+Overall, classification architectures optimize categorical discrimination with rapid convergence and early saturation. Regression architectures provide high fidelity quantitative flow estimation with R² approaching 0.9996 at higher dataset fractions. Spatial models perform competitively, and temporal encoding provides measurable but incremental improvements in robustness and dynamic flow representation.
