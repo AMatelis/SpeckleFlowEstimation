@@ -2,15 +2,12 @@
 
 This repository presents a comprehensive study of multiple deep learning architectures for estimating microfluidic flow rates (µL/min) from grayscale speckle pattern videos. The project was developed under the guidance of **Dr. Christopher Raub** at **The Catholic University of America** and explores non-invasive optical methods for measuring flow dynamics in microfluidic and biological systems.
 
----
-
 ## Background
 
 When coherent light (e.g., laser) scatters through dynamic, heterogeneous media like flowing blood, speckle patterns form and evolve according to the underlying flow. By analyzing sequences of these speckle frames, it is possible to infer flow rates with high accuracy using machine learning.
 
 This repository compares **six different model architectures**, highlighting their strengths in **regression** (continuous flow estimation) and **classification** (discrete flow states).
 
----
 
 ## Comparative Model Overview
 
@@ -50,7 +47,6 @@ speckle-blood-flow-estimation/
 
 Each model folder contains its own `train.py`, dataset scripts, and model definitions. Shared code is in `src/` to avoid duplication.
 
----
 
 ## Usage
 
@@ -129,6 +125,6 @@ pandas
 
 notebook
 
-Acknowledgements
+## Acknowledgements
 
 Developed under the guidance of Dr. Christopher Raub, with contributions from Thuc Pham and Sara Alqasire at The Catholic University of America. This project investigates speckle-based imaging techniques for non-invasive blood flow estimation in microfluidic systems.
