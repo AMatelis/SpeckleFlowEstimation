@@ -20,7 +20,6 @@ This repository compares **six different model architectures**, highlighting the
 | Model 5 | 2D CNN + Linear Regression Head | Regression | Efficient mapping from spatial features to flow; robust across medium/high flows |
 | Model 6 | 3D CNN + Linear Regression Head | Regression | Combines temporal and linear mapping; slightly below full 3D end-to-end performance |
 
----
 
 ## Repository Structure
 
@@ -125,6 +124,6 @@ pandas
 
 notebook
 
-## Acknowledgements
+Acknowledgements
 
 Developed under the guidance of Dr. Christopher Raub, with contributions from Thuc Pham and Sara Alqasire at The Catholic University of America. This project investigates speckle-based imaging techniques for non-invasive blood flow estimation in microfluidic systems.
