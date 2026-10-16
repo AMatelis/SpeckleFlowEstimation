@@ -24,24 +24,26 @@ This repository compares **six different model architectures**, highlighting the
 ## Repository Structure
 
 
+```text
 speckle-blood-flow-estimation/
 ├── models/
-│ ├── cnn3d_classification/
-│ │ ├── train.py
-│ │ ├── dataset.py
-│ │ └── model.py
-│ ├── cnn3d_regression/
-│ ├── cnn2d_regression/
-│ ├── cnn2d_classification/
-│ ├── cnn2d_linear_head/
-│ └── cnn3d_linear_head/
-├── src/ # Shared utilities (dataset loaders, preprocessing, helpers)
-├── data/ # Input .avi speckle videos
-├── results/ # Metrics and output CSVs
-├── figures/ # Plots and visualizations
-├── experiments/ # Logs or experiment configs per model
+│   ├── cnn3d_classification/
+│   │   ├── train.py
+│   │   ├── dataset.py
+│   │   └── model.py
+│   ├── cnn3d_regression/
+│   ├── cnn2d_regression/
+│   ├── cnn2d_classification/
+│   ├── cnn2d_linear_head/
+│   └── cnn3d_linear_head/
+├── src/                 # Shared utilities and preprocessing
+├── data/                # Local input AVI videos; not committed
+├── results/              # Metrics and prediction CSVs
+├── figures/              # Plots and visualizations
+├── experiments/          # Experiment logs and configurations
 ├── README.md
 └── requirements.txt
+```
 
 
 Each model folder contains its own `train.py`, dataset scripts, and model definitions. Shared code is in `src/` to avoid duplication.
